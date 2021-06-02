@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3997161585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d87f88c37def0ed0bd19929614d067f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/App/Res/Audios/alice_sound_a.mp3
+- Assets/App/Res/Audios/click_a.mp3
+- Assets/App/Res/Audios/bgm_a.mp3
+- Assets/App/Res/Audios/bgm2_a.mp3
+Dependencies: []
